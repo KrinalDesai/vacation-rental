@@ -9,7 +9,7 @@
                 <div class="col-md-7 ftco-animate">
                     <h2 class="subheading">Welcome to Vacation Rental</h2>
                     <h1 class="mb-4">Rent an appartment for your vacation</h1>
-                    <p><a href="#" class="btn btn-primary">Learn more</a> <a href="#" class="btn btn-white">Contact us</a></p>
+                    <p><a href="#" class="btn btn-primary">Learn more</a> <a href="{{ route('contact') }}" class="btn btn-white">Contact us</a></p>
                 </div>
             </div>
         </div>
